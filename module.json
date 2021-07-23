@@ -1,9 +1,9 @@
 {   
-   "name": "SharedCompendiums",   
+   "name": "my-shared-compendiums",   
    "title": "Shared Compendiums",   
    "description": "Personal compendium-sharing module.",   
-   "author": "me",
-   "version": "1.0.0",
+   "author": "AceKokuren",
+   "version": "0.0.1",
    "minimumCoreVersion": "0.5.5",
    "compatibleCoreVersion": "3.0.0",
    "packs": [
