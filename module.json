@@ -15,63 +15,70 @@
       "label": "Shared Scenes",
       "path": "packs/scenes.db",
       "entity": "Scene",
-      "module": "SharedCompendiums"
+      "module": "Ace's Shared Compendium"
     },
     {
       "name": "actors",
       "label": "Shared Actors",
       "path": "packs/actors.db",
       "entity": "Actor",
-      "module": "SharedCompendiums"
+      "module": "Ace's Shared Compendium"
     },
     {
       "name": "monsters",
       "label": "Shared Monsters",
       "path": "packs/monsters.db",
       "entity": "Actor",
-      "module": "SharedCompendiums"
+      "module": "Ace's Shared Compendium"
     },
     {
       "name": "items",
       "label": "Shared Items",
       "path": "packs/items.db",
       "entity": "Item",
-      "module": "SharedCompendiums"
+      "module": "Ace's Shared Compendium"
+    },
+    {
+      "name": "racialtraits",
+      "label": "Shared Racial Traits",
+      "path": "packs/racialtraits.db",
+      "entity": "Item",
+      "module": "Ace's Shared Compendium"
     },
     {
       "name": "spells",
       "label": "Shared Spells",
       "path": "packs/spells.db",
       "entity": "Item",
-      "module": "SharedCompendiums"
+      "module": "Ace's Shared Compendium"
     },
     {
       "name": "journalentries",
       "label": "Shared Journal Entries",
       "path": "packs/journalentries.db",
       "entity": "JournalEntry",
-      "module": "SharedCompendiums"
+      "module": "Ace's Shared Compendium"
     },
     {
       "name": "rolltables",
       "label": "Shared Roll Tables",
       "path": "packs/rolltables.db",
       "entity": "RollTable",
-      "module": "SharedCompendiums"
+      "module": "Ace's Shared Compendium"
     },
     {
       "name": "playlists",
       "label": "Shared Playlists",
       "path": "packs/playlists.db",
       "entity": "Playlist",
-      "module": "SharedCompendiums"
+      "module": "Ace's Shared Compendium"
     },
     {
       "name": "macros",
       "label": "Shared Macros",
       "path": "packs/macros.db",
       "entity": "Macro",
-      "module": "SharedCompendiums"
+      "module": "Ace's Shared Compendium"
     }
   ]
  }
