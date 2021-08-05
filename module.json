@@ -6,17 +6,10 @@
    "url" : "https://github.com/AceKokuren/my-shared-compendiums",
    "manifest" : "",
    "download" : "",
-   "version": "0.0.2",
+   "version": "0.0.3",
    "minimumCoreVersion": "0.5.5",
    "compatibleCoreVersion": "3.0.0",
    "packs": [
-    {
-      "name": "scenes",
-      "label": "Shared Scenes",
-      "path": "packs/scenes.db",
-      "entity": "Scene",
-      "module": "Ace's Shared Compendium"
-    },
     {
       "name": "actors",
       "label": "Shared Actors",
@@ -39,9 +32,37 @@
       "module": "Ace's Shared Compendium"
     },
     {
+      "name": "races",
+      "label": "Shared Races",
+      "path": "packs/races.db",
+      "entity": "Item",
+      "module": "Ace's Shared Compendium"
+    },
+    {
       "name": "racialtraits",
       "label": "Shared Racial Traits",
       "path": "packs/racialtraits.db",
+      "entity": "Item",
+      "module": "Ace's Shared Compendium"
+    },
+    {
+      "name": "classes",
+      "label": "Shared Classes",
+      "path": "packs/classes.db",
+      "entity": "Item",
+      "module": "Ace's Shared Compendium"
+    },
+    {
+      "name": "classfeatures",
+      "label": "Shared Class Features",
+      "path": "packs/classfeatures.db",
+      "entity": "Item",
+      "module": "Ace's Shared Compendium"
+    },
+    {
+      "name": "feats",
+      "label": "Shared Feats",
+      "path": "packs/feats.db",
       "entity": "Item",
       "module": "Ace's Shared Compendium"
     },
@@ -60,6 +81,20 @@
       "module": "Ace's Shared Compendium"
     },
     {
+      "name": "macros",
+      "label": "Shared Macros",
+      "path": "packs/macros.db",
+      "entity": "Macro",
+      "module": "Ace's Shared Compendium"
+    },   
+    {
+      "name": "playlists",
+      "label": "Shared Playlists",
+      "path": "packs/playlists.db",
+      "entity": "Playlist",
+      "module": "Ace's Shared Compendium"
+    }, 
+    {
       "name": "rolltables",
       "label": "Shared Roll Tables",
       "path": "packs/rolltables.db",
@@ -67,17 +102,10 @@
       "module": "Ace's Shared Compendium"
     },
     {
-      "name": "playlists",
-      "label": "Shared Playlists",
-      "path": "packs/playlists.db",
-      "entity": "Playlist",
-      "module": "Ace's Shared Compendium"
-    },
-    {
-      "name": "macros",
-      "label": "Shared Macros",
-      "path": "packs/macros.db",
-      "entity": "Macro",
+      "name": "scenes",
+      "label": "Shared Scenes",
+      "path": "packs/scenes.db",
+      "entity": "Scene",
       "module": "Ace's Shared Compendium"
     }
   ]
